@@ -8,7 +8,7 @@ Instead, you can leverage the flexibility of your IDE to code the HTML templates
 
 ## Getting Started
 
-The `html-templates` directory contains email HTML templates. You can view the examples or simple add your own.
+The `email-templates/html` directory contains email HTML templates. You can view the examples or simple add your own.
 
 Then copy this workflow to your Pipedream account: https://pipedream.com/new?h=tch_O6LfRN
 
